@@ -51,7 +51,7 @@ export default function Home() {
         </div>
       </main>
       <footer className="mt-8 text-center text-sm text-gray-500">
-        <p>&copy; Pearl's Lotto</p>
+        <p>&copy; Pearl&apos;s Lotto</p>
       </footer>
     </div>
   );
